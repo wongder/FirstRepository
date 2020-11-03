@@ -7,6 +7,6 @@
  */
 public class PassedFunction {
     public int function(int x, int y) {
-        return x + y;        
+        return x * y;
     }
 }

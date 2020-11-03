@@ -7,7 +7,7 @@
  */
 public class UseFunction {
     public String ApplyFunction(PassedFunction pf) {
-        return "Answer is " + pf.function(2,3);
+        return "multiplication result " + pf.function(2,3);
     }
 
     public static void main(String[] args) {
